@@ -1,0 +1,11 @@
+Tema: Estúdio de Design
+
+Páginas: - Home: index.html (Nome da página, links úteis, sobre a empresa, vídeo explicativo)
+	
+	- Sobre: sobre.html (Um pouco sobre a empresa)
+
+	- Portfolio: portfolio.html (Um mini portfolio)
+
+	- Lista de serviços: servicos.html (Quais serviços a empresa presta)
+	
+	- Contato: contato.html (Redes da empresa).
